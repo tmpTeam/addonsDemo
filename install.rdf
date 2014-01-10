@@ -5,7 +5,7 @@
 
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>demo@tmpTeam.com</em:id>
-		<em:version>1.0.1</em:version>
+		<em:version>1.0.3</em:version>
 		<em:name>demo</em:name>
 		<em:description>A Demo</em:description>
 		<em:contributor>Jiao Feng</em:contributor>
